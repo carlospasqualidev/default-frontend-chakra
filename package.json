@@ -1,5 +1,9 @@
 {
   "name": "client",
+    "author": {
+    "name": "Carlos Pasquali",
+    "email": "carlos.pasquali.dev@gmail.com"
+  }
   "private": true,
   "version": "0.0.0",
   "scripts": {
